@@ -1,0 +1,16 @@
+about page email
+
+
+category api for client and admin
+
+order Product price CLIENT SIDE
+stock SERVER SIDE AND CLIENT SIDE
+gift POINT CLIENT SIDE
+
+reviews CLIENT SIDE (verify and notify that the review pending)
+
+
+
+cat role base get sub 
+
+colors
